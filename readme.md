@@ -15,9 +15,9 @@ NNESEESWNWW
 ```
 
 	where: 
-	* 1st and 2nd line are room dimension and initial hoover location respectively.
-	* The last line is instruction to move the hoover
-	* The remaining lines are coordinates of dirt patches.
+	- 1st and 2nd line are room dimension and initial hoover location respectively.
+	- The last line is instruction to move the hoover
+	- The remaining lines are coordinates of dirt patches.
 
 
 
