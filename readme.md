@@ -1,7 +1,10 @@
+- To start please upload a valid input file (e.g. input.txt)
+
 - Not compatible with IE9 and lower version. ( dependency - FileReader )
 - Only accepts plain text file with file size less then 50 KB.
 
 - The input file needs to following format
+
 5 5
 1 2
 1 0
@@ -17,12 +20,4 @@ AND the remaining lines are coordinates of dirt patches.
 
 
 
-- To start please upload a valid input file (e.g. input.txt)
-
-
-
 Thank you :)
-
-
-
-- Hiran
