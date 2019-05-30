@@ -1,7 +1,7 @@
 ##### Please upload a valid input file (e.g. input.txt) to start hoovering.
 
 ###### Note:
-- Not compatible with IE9 and lower version. ( dependency - FileReader )
+- Not compatible with IE9 and lower version.
 - Only accepts plain text file with file size less then 50 KB.
 
 - The input file needs to following format
