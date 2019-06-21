@@ -1,8 +1,8 @@
 ##### Please upload a valid input file (e.g. input.txt) to start hoovering. 
-#(Please follow the input file guideline below.)
+(Please follow the input file guideline below.)
 
 ###### Note:
-- Not compatible with IE9 and lower version.
+- Compatible with all major browers. Not compatible with IE9 and lower version, Opera Mini and Blackberry browser 7.
 - Only accepts plain text file with file size less then 50 KB.
 
 - The input file needs to following format
