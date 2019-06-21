@@ -1,5 +1,5 @@
 ##### Please upload a valid input file (e.g. input.txt) to start hoovering. 
-######(Please follow the input file guideline below.)
+#(Please follow the input file guideline below.)
 
 ###### Note:
 - Not compatible with IE9 and lower version.
